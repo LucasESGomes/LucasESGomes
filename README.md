@@ -1,5 +1,5 @@
 <h1 align="center">Olá Sou Lucas Gomes</h1>
-<h3 align="center">Sou um desenvolvedor front/back-end (e bigode)</h3>
+<h3 align="center">Sou um desenvolvedor front/back-end</h3>
 
 - ⚡ Hobby **Eu prático Taekwondo 🥋**
 
