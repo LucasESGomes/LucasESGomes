@@ -4,7 +4,7 @@
 
 <p align="left">🔨 I´m currenty working on fullstack projects<br>🔍 I`m searching for big system or archteture</p>
 
-###
+### ***
 
 <h3 align="left">📲Reach me:</h3>
 
