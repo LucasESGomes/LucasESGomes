@@ -1,4 +1,4 @@
-<h2 align="center">👋 A quick about me:</h2>
+<h1 align="center">👋 A quick about me:</h1>
 
 ###
 
