@@ -8,7 +8,7 @@
 
 <h3 align="left">📲Reach me:</h3>
 
-###
+***
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasesgomes" target="_blank">
